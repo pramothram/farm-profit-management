@@ -74,6 +74,6 @@ The main objective of this project is to provide farmers with a simple digital s
 
 ## 👨‍💻 Developed By
 
-**Pramothram**
+**PRAMOTHRAM**
 
 **Technologies:** Python | Django | HTML | CSS | JavaScript | PostgreSQL
